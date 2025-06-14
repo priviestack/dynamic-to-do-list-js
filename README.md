@@ -1,0 +1,1 @@
+This is a README.md file where I am going to practise advanced Javascript. This task was for creating a to do list
